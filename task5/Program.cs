@@ -1,0 +1,1 @@
+﻿// METHOD OVERRIDING - methodest ki ba mo ijoza medihad to yak methodro boznavisi kunem(yane alish kunem)boyad tavassuti virtual istifoda barem.

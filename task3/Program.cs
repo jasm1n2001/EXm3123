@@ -1,0 +1,1 @@
+﻿CONSTRUCTOR - baroi qimmat dodani vereblho istifoda meshavad. Mo tavassutu construvtor me motonem privatehoro qimmat doda dar digarjoiho hamchun oublic istifoda kunem. CONSTRUCTOR hamesha hamnomi class meshavad va tip nadorad.

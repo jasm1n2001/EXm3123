@@ -1,0 +1,1 @@
+﻿// INHERITANCE - Merosguzori meboshad. Mo yak classi asosi dorem v tavasuti INHERITANCE methodu vereblhoi public-ashro istifoda kunem. in Ba mo imkonmedihad ki mo yakchizro takror ba takror nanavisemu hamon metodhoro istifoda arem.
